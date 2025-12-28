@@ -64,5 +64,3 @@ The code is contained in `array_crud.py`. It features a class `ArrayCRUD` that s
 2. Run the script to see the driver code demonstrate operations:
    ```bash
    python array_crud.py
-
-```
