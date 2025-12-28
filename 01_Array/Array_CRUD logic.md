@@ -1,12 +1,3 @@
-Here is a professional and detailed `README.md` file designed for your **"Useful Stuff"** GitHub repository. I have also included the clean Python script (`array_crud.py`) so you have the exact code to upload alongside the README.
-
-### **1. The README File (`README.md`)**
-
-Copy the content below into a file named `README.md`.
-
----
-
-```markdown
 # Array CRUD Operations (Under-the-Hood Logic)
 
 ## 📌 Overview
